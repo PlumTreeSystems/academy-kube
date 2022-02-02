@@ -9,3 +9,4 @@ For this you need to create a Deployment.yaml type file.
 For this you need to create a Service.yaml type file.
 
 3. Apply the configurations with `kubectl apply`
+4. Use `kubectl port-forward` for accessing the created service
