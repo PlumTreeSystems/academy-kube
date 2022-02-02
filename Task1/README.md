@@ -1,7 +1,7 @@
 # TASK 1
 
-1. Your task is to launch a prebuilt image at
-https://hub.docker.com/r/plumtreesystems/academy-kube
+1. Your task is to launch a prebuilt image with tag
+`plumtreesystems/academy-kube`
 on your kubernetes setup.
 For this you need to create a Deployment.yaml type file.
 
