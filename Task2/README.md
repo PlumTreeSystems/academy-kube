@@ -1,4 +1,4 @@
-# Task 2
+# TASK 2
 
 Your task is:
 1. Create a stateful set for the official `mongo` image
